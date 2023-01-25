@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0ad6f5ff","path":"/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20%E5%88%9D%E7%BA%A7%E5%8F%A5%E5%9E%8B-%E5%8D%95%E5%8F%A5/","title":"第一部分 初级句型 单句","lang":"zh-CN","frontmatter":{"title":"第一部分 初级句型 单句","article":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
