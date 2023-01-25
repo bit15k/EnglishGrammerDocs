@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://EnglishGrammerDocs.ismeoh.com/sitemap.xml
+Sitemap: https://ismeoh.github.io/sitemap.xml
